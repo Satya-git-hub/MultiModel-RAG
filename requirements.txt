@@ -21,3 +21,12 @@ regex
 tqdm
 python-dotenv
 ffmpeg
+pillow
+pydantic
+lxml
+matplotlib
+langchain_core
+langchain_openai
+unstructured-pytesseract
+tesseract-ocr
+unstructured[all-docs]
